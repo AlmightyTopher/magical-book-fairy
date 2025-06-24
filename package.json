@@ -1,0 +1,13 @@
+{
+  "name": "magical-book-fairy",
+  "version": "1.0.0",
+  "description": "A magical Discord bot who delivers literary delight with AI flair",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  }
+}
